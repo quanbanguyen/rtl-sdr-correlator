@@ -1,2 +1,3 @@
 # rtl-sdr-correlator
-this code will simulate what type of signal go in and out during whole project 
+this code from apsin will simulate the uv plane interferometry in radio astronomy
+
